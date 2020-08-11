@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-white antialiased">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+
+    <meta name="twitter:title" content="{{ title }}">
+    <meta name="twitter:description" content="{{ description }}">
+
+    <meta name="title" content="{{ title }}">
+    <meta name="description" content="{{ description }}">
+
+    <meta property="og:url" content="https://crisis.tools/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:description" content="{{ description }}" />
+
+    <link rel="stylesheet" href="/build.css" />
+</head>
+<body>
+    <div class="w-full bg-gray-900 text-white p-4">
+        <div class="container mx-auto">
+            We stand with the Black community and against police brutality. <a href="https://www.joincampaignzero.org/">Learn more from Campaign Zero.</a>
+        </div>
+    </div>
+    <div class="container mx-auto mt-8 mb-12">
+{{{ content }}}
+    </div>
+
+<div class="fixed bottom-0 left-0">
+    Last updated <br/> {{ updatedAt }} EST
+</div>
+</body>
+</html>

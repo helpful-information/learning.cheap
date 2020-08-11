@@ -1,0 +1,27 @@
+{
+  "name": "crisis.tools",
+  "version": "0.0.1",
+  "description": "To help our fellow humans with getting accurate and mostly unbiased information in times of crisis. Paid services, and product or service recommendations will not be allowed, partisan news sources will not be allowed, and any source which promotes violence will not be allowed.",
+  "main": "build.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "node build.js && NODE_ENV=production npx tailwindcss build build.css -o public/build.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helpful-information/crisis.tools.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helpful-information/crisis.tools/issues"
+  },
+  "homepage": "https://crisis.tools",
+  "dependencies": {
+    "dayjs": "^1.8.28",
+    "markdown-it": "^11.0.0",
+    "mustache": "^4.0.1",
+    "tailwindcss": "^1.4.6"
+  }
+}

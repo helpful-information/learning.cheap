@@ -1,0 +1,9 @@
+name = "crisis"
+type = "webpack"
+account_id = "397c1d52f9be79c988a4b07983da3256"
+route = "crisis.tools/*"
+zone_id = "26d65ae170ecda0bf50cfdc599a56462"
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
