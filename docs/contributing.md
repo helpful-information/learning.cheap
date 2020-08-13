@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Code of Conduct](https://crisis.tools/code-of-conduct). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Code of Conduct](https://learning.cheap/code-of-conduct). By participating in this project you agree to abide by its terms.
 
 ## Adding a resource
 
