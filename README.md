@@ -1,10 +1,12 @@
 # Goal of the Project
-To help our fellow humans with getting accurate and mostly unbiased information in times of crisis. Paid services, and product or service recommendations will not be allowed, partisan news sources will not be allowed, and any source which promotes violence will not be allowed.
+The goal here is to spread _good information_ that will be helpful. The information can span almost any topic so long as it's of a certain educational quality. There isn't a hard rule for what will qualify or this list, but generally sources must be cite if they're quoting someone, experts in the respective field must be referenced/used as a primary source of information, and the content must be easy to understand (must be clearly audible, and have visuals if possible).
 
-The goal here is to spread _information_ that will be helpful. Not political views.
+##### Can sources other than YouTube be used? 
+Yes! Absolutely! All links will be examined before being added to the list to make sure that they won't send users to malicious sites or otherwise cause trouble. 
+
 
 ## Can I help
 ABSOLUTELY! There are loads of useful sources that aren't listed yet, so if you know of any that aren't listed please [create an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) or [create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
 ## Project website
-[crisis.tools](https://crisis.tools)
+[learning.cheap](https://learning.cheap)
