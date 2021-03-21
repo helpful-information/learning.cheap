@@ -111,6 +111,9 @@ The goal here is to spread _information_ that will be helpful, without taking si
 
 ### Psychology
   - [Crash Course Psycology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) Covers the Anatomy of the Nervous System, memory, developmental psycology, personality, emotion, stress, and health, hosted by Hank Green.
+  - [Thearapy in a Nutshell: Anxiety Skills](https://www.youtube.com/playlist?list=PLiUrrIiqidTVNQB5GrD2uh-bmfUGGwh-z) Emma McAdam covers 54 essential skills to understand anxiety, turn off the fight, flight, freeze response, and train yourself to be calmer, more intentional and less stressed out. 
+  - [Thearapy in a Nutshell: Depression Skills](https://www.youtube.com/playlist?list=PLiUrrIiqidTUrBRNDYEmEK1Y_UJ_10_CN) Emma McAdam covers 26 skills to better understand depressive disorder and fight Depression. Includes a CBT approach and Acceptance and Commitment Therapy.
+
 
 ### Big History (generally covering hundreds of thousands of years)
   - [Crash Course Big History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMczXZUmjb3mZSU1Roxnrey) Covers the Big Bang, the starts of life, the starts of human evolution, human migration, and the Anthropocene, hosted by John Green, Hank Green, and Emily Graslie. 
