@@ -28,8 +28,8 @@ const renderFileAndFormat = (filePath) => {
     }));
 
     return render(fs.readFileSync(__dirname + '/templates/layout.html', { encoding: 'utf-8' }), {
-        title: 'Important information for a crisis in one spot',
-        description: 'Life is hard, and when bad things happen it can be difficult to know where to move next. This is a collection of resources that might make deciding what to do a little easier.',
+        title: 'Learning Cheap',
+        description: 'Knowledge should be free or cheap to those who seek it.',
         content,
         updatedAt: dayjs(new Date().toLocaleString("en-US", { timeZone: "America/New_York" })).format('LLL')
     })
