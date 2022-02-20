@@ -6,6 +6,9 @@ dayjs.extend(localizedFormat)
 
 const MarkdownIt = require('markdown-it'),
     md = new MarkdownIt();
+
+md.use(require('markdown-it-anchor'))
+
 const { render } = require('mustache');
 const findAllFiles = (dir) => fs
     .readdirSync(dir)
