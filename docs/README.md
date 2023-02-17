@@ -2,6 +2,11 @@
 Information exists all over the internet. This website aims to help serve as a directory for topics of all kinds.
 
 The goal here is to spread _information_ that will be helpful, without taking sides political.
+
+# Non-traditional educational paths
+
+ - [Study Hall](https://gostudyhall.com/) Earn College credits, before you start college. Get started with college-level foundational courses for a small $25 course registration fee. Once you master the subject matter you can register for course credits for $400
+
 # Educational Videos 
 
 ### Adulting (millennial definition)
