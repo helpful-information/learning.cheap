@@ -51,6 +51,8 @@ The goal here is to spread _information_ that will be helpful, without taking si
   - [Smarter Ever Day The Infinadeck omnidirectional treadmill](https://www.youtube.com/watch?v=fvu5FxKuqdQ)
   - [CGP Grey Should all lcoks have keys?  (encryption)](https://youtu.be/VPBH1eW28mo) 
   - [Veritasium From Transistors to Quantum Computers](https://www.youtube.com/playlist?list=PLkahZjV5wKe_dajngssVLffaCh2gbq55_)
+  - [How computers work, by Sebastian Lague](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) Covers how modern electronics work, bit by bit using various registers, logic gates, buses, 7 Segment Displays, and memory. Great for visual and auditory learners. 
+
 #### Gaming (and game development)
   - [Crash Course Games](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG) Covers the brief history of modern, classic, and traditional games, the psychology of gaming, and looks at the future of Gaming hosted by Andre Meadows.
   
