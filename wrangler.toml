@@ -3,6 +3,7 @@ type = "webpack"
 account_id = "397c1d52f9be79c988a4b07983da3256"
 route = "learning.cheap/*"
 zone_id = "5054db7b603f7d353bee276ad7e64249"
+compatibility_date = "2024-12-17"
 
 [site]
 bucket = "./public"
