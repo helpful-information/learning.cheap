@@ -13,12 +13,12 @@ jobs:
     name: Deploy
     steps:
       - uses: actions/checkout@master
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v4
         with:
-          node-version: '12'
+          node-version: '16'
       - run: npm install
       - run: npm run build
       - name: Publish
-        uses: cloudflare/wrangler-action@1.1.0
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
