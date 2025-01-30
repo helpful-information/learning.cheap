@@ -11,10 +11,10 @@ The goal here is to spread _information_ that will be helpful, without taking si
 
 ### Adulting (millennial definition)
  - [How to Adult - Automotives](https://www.youtube.com/playlist?list=PLvdeRYvP0yPUOmZ08ZpZNEC78t_l7AHH6) Covers basic car maintenance, cleaning your car, changing a tire, car insurance, how to buy a car, and how to drive a manual transmission vehicle.
- - [How to Adult - Health](https://www.youtube.com/playlist?list=PLvdeRYvP0yPUhhd40mNCvMAv0Y1ILUxvS) Covers how and when to seek therapy, taking care of yourself when you're sick, how to use a fire extinuisher, grief and the death of a loved one, understanding health insurance, how to choose a doctor, how to combat stress, self care, how to deal with your identity, and depression.
+ - [How to Adult - Health](https://www.youtube.com/playlist?list=PLvdeRYvP0yPUhhd40mNCvMAv0Y1ILUxvS) Covers how and when to seek therapy, taking care of yourself when you're sick, how to use a fire extinguisher, grief and the death of a loved one, understanding health insurance, how to choose a doctor, how to combat stress, self care, how to deal with your identity, and depression.
  - [How to Adult - Home Economics](https://www.youtube.com/playlist?list=PLvdeRYvP0yPVmQLMFxIHyAfFEWUcgxcuO) Covers unclogging a toilet, how to use a slow cooker, the styles of beer, how to choose wine, how to make coffee, how to save money, steps to buying a house, renting vs owning, spring cleaning and organizing, and how to do laundry.
  - [How to Adult - Finances](https://www.youtube.com/playlist?list=PLvdeRYvP0yPXq_XulO_dtHEAukwE_Hb-5) Covers budgeting, saving on bills, paying back debt, public transportation, freelancing, weddings, taxes, student loans, vacationing without spending lots of money, retirement, credit scores, and getting educated without going to college/university.
- - [How to Adult - Professional stuff](https://www.youtube.com/playlist?list=PLvdeRYvP0yPXCQ1O5ScriecYYoxZFPI_1) Covers varioius "professional" topics like tying a necktie, being more confident, starting a new job, using social media to get a job,job interview tips, dealing with rejection, how to write a resume, and tips for getting a promotion.
+ - [How to Adult - Professional stuff](https://www.youtube.com/playlist?list=PLvdeRYvP0yPXCQ1O5ScriecYYoxZFPI_1) Covers various "professional" topics like tying a necktie, being more confident, starting a new job, using social media to get a job,job interview tips, dealing with rejection, how to write a resume, and tips for getting a promotion.
  - [How to Adult - Relationships and Social Skills](https://www.youtube.com/playlist?list=PLvdeRYvP0yPXU_39wg3ZgMfVuCRYwsgjF) Covers how to say no, how to host a party, how to get involved in your local community, sexual consent, how to break up with someone, and how to make new friends as an adult.    
   
 ### Astronomy
@@ -25,16 +25,20 @@ The goal here is to spread _information_ that will be helpful, without taking si
   - [Smarter Every Day Where does NASA keep the moon rocks](https://www.youtube.com/watch?v=QxZ_iPldGtI)
   
 ### Anatomy & Physiology
-  - [Crash Course Anatomy and Physiology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8) Covers the nervous, sensory, musculoskeletal, respiratory, digestiive, urinary, reproductive, lymphatic, and immune systems, hosted by Hank Green.
+  - [Crash Course Anatomy and Physiology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8) Covers the nervous, sensory, musculoskeletal, respiratory, digestive, urinary, reproductive, lymphatic, and immune systems, hosted by Hank Green.
   - [Sexplanations Anatomy](https://www.youtube.com/playlist?list=PL_zdi3TflN9Knd2LjCyQrHzkNmkskbjat)
 
 ### Biology
-  - [Crash Course Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF) Covers carbon, water, plant cells, that mitochondria is the power house of the cell, photosynthesis, DNA, mitosis, meiosis, your immune system, and touches on ecology hosted by Hank Green.
-  - [Scishow biology](https://www.youtube.com/playlist?list=PLB3FCEEAC84884760) Covers a _large_ variety of topics including tardigrades, epigenetics, mind reading, climate change, obesity, faster than lighfacts, jellyfish that live forever, blood transfusions, cannibalism, anxiety and more, hosted by Hank Green, Olivia Gordon, Michael Aranda, and Stefan Chin. 
+  - [Crash Course Biology (2012)](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF) Covers carbon, water, plant cells, that mitochondria is the power house of the cell, photosynthesis, DNA, mitosis, meiosis, your immune system, and touches on ecology hosted by Hank Green.
+  - [Crash Course Biology (2024)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPW_ofbxdHNciuLoTRLPMgB) Covers Biology 101, community, and population ecology, climate change, evolution, microevolution, natural selection, carbon, water, cells, types of cells, and cell functions, meiosis and mitosis, photosynthesis  hosted by Dr. Samuel Ramsey.
+
+  - [Scishow biology](https://www.youtube.com/playlist?list=PLB3FCEEAC84884760) Covers a _large_ variety of topics including tardigrades, epigenetics, mind reading, climate change, obesity, faster than light facts, jellyfish that live forever, blood transfusions, cannibalism, anxiety and more, hosted by Hank Green, Olivia Gordon, Michael Aranda, and Stefan Chin. 
   - [Smarter Ever Day Why are bugs attracted to light?](https://www.youtube.com/watch?v=oRqOohdLrJE)
+  - [Crash Course Outbreak Science] Covers pathogens, how they work, what they do to us, how societies respond to outbreaks of pathogens, and ways we can work together to stop future outbreaks, hosted by Dr. Pardis Sabeti.
+    
 ### Business 
   - [Crash Course Business Soft Skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMBsfP-lP28IFvfkISqJofM) Covers the fundamental interpersonal skills, finding a job and negotiating your position, working effectively alone and with a team, and career advancement and personal well-being, hosted by [Evelyn From the Internets](https://www.youtube.com/channel/UCCPHeV_9kyViBufLwBl9b5g).
-  - [Crash Course Entrepreneurship](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNamNKW5qlS-nKgA0on7Qze) Covers the foundations of uilding a business, key activies, resources, and partners, marketing, keeping track of money, and growth and failure, hosted by Anna Akana.
+  - [Crash Course Entrepreneurship](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNamNKW5qlS-nKgA0on7Qze) Covers the foundations of building a business, key activities, resources, and partners, marketing, keeping track of money, and growth and failure, hosted by Anna Akana.
 
 ### Chemistry
   - [Crash Course Chemistry](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr) Covers Atoms, Molecules, The Periodic Table, Thermal Dynamics, Acids and Bases, Electrochemistry, Nuclear Chemistry, Polymers, and the Global Carbon Cycle, hosted by Hank Green.
@@ -43,13 +47,13 @@ The goal here is to spread _information_ that will be helpful, without taking si
   
 ### Computer Science
   - [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) Covers how computers work, the basics of programming and software, computer hardware, personal computers, the internet, artificial intelligence, and the future of computing.
-  - [Crash Course Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY) Covers what media literacy is, how the media you consume impacts your mind, media policies and regulations, how media can spread propaganda, misinformation, and disinformation, hosted by Jay Smooth.
-  - [Crash Course Navigating Digital Information](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCHTzU) Covers how to fact check, identifying who is behind what you're reading or watching, checking your sources, and evaluating evidence, hosted by John Green.
-  - [Crash Course Artificial Inteligence (AI)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) Covers what AI is, basic machine learning principles, AI applications, AI cautions and algorithmic bias, and the future of AI, hosted by Jabril.
+  - ‼️ [Crash Course Media Literacy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY) Covers what media literacy is, how the media you consume impacts your mind, media policies and regulations, how media can spread propaganda, misinformation, and disinformation, hosted by Jay Smooth.
+  - ‼️ [Crash Course Navigating Digital Information](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCHTzU) Covers how to fact check, identifying who is behind what you're reading or watching, checking your sources, and evaluating evidence, hosted by John Green.
+  - [Crash Course Artificial Intelligence (AI)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) Covers what AI is, basic machine learning principles, AI applications, AI cautions and algorithmic bias, and the future of AI, hosted by Jabril.
   - [Smarter Every Day Social Media Manipulation](https://www.youtube.com/playlist?list=PLjHf9jaFs8XVAQpJLdNNyA8tzhXzhpZHu) Covers media disinformation, how your newsfeed sucks, and how the social media giants can be manipulated.
   - [Smarter Every Day The Gun Detector (using AI)](https://www.youtube.com/watch?v=Lh0x54GC1sw)
   - [Smarter Ever Day The Infinadeck omnidirectional treadmill](https://www.youtube.com/watch?v=fvu5FxKuqdQ)
-  - [CGP Grey Should all lcoks have keys?  (encryption)](https://youtu.be/VPBH1eW28mo) 
+  - [CGP Grey Should all locks have keys?  (encryption)](https://youtu.be/VPBH1eW28mo) 
   - [Veritasium From Transistors to Quantum Computers](https://www.youtube.com/playlist?list=PLkahZjV5wKe_dajngssVLffaCh2gbq55_)
   - [How computers work, by Sebastian Lague](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq) Covers how modern electronics work, bit by bit using various registers, logic gates, buses, 7 Segment Displays, and memory. Great for visual and auditory learners. 
 
@@ -69,8 +73,8 @@ The goal here is to spread _information_ that will be helpful, without taking si
   - [Crash Course economics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO) Covers economic fundamentals, macroeconomics, microeconomics, inflation, the influences people have on the economy, taxes, and the economics of happiness, hosted by Adriene Hill and Jacob Clifford.
   
 ### Film
-  - [Crash Course Film History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN-Bd-H_TGq72CN50Fpv_JX) Covers the invention of movies, early German and Russian cinema, thhe American Studio System, and how films are changing, hosted by Craig Benzine.
-  - [Crash Course Theater and Drama](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONXALkeh5uisZqrAcPKCee) Covers ancient theater, Christiantiy and theater, Japanese theater, Shakespeare, the Puritans and the Inquisition, the Beijing Opera, and Broadway and Beyond, hosted by Mike Rugnetta.
+  - [Crash Course Film History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN-Bd-H_TGq72CN50Fpv_JX) Covers the invention of movies, early German and Russian cinema, the American Studio System, and how films are changing, hosted by Craig Benzine.
+  - [Crash Course Theater and Drama](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONXALkeh5uisZqrAcPKCee) Covers ancient theater, Christianity and theater, Japanese theater, Shakespeare, the Puritans and the Inquisition, the Beijing Opera, and Broadway and Beyond, hosted by Mike Rugnetta.
   - [Crash Course Film Criticism](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOCicti5dwLAKuesMQVi7hw) Covers the fundamental criticism tools and lenses, character studies, movies as cultural commentary, creating empathy through the camera, documentary and cinematic manipulation, and unpacking a complex story, hosted by Michael Aranda.
   - [Crash Course Film Production](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPnisE6CrrLO00Qoe67TDpx) Covers film writing and story making, camera and sound design, production, post-production and marketing, film school, and the differences between TV film and cinema film, hosted by Lily Gladstone.
 
@@ -94,7 +98,7 @@ The goal here is to spread _information_ that will be helpful, without taking si
   - [Healthcare Triage International Health Care Systems](https://www.youtube.com/playlist?list=PLkfBg8ML-gIngk82SUbTp6Og_KkYfJ6oF) Covers the healthcare systems in the United Kingdom, the United States, Australia, France, Switzerland, Germany, Singapore, and Taiwan.
 
 ### Math
-  - [Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) Covers the intro to statistics, describing and collecting data, working with distributions, creating models with existing data, and making predictions and statstics in the real world, hosted by Adriene Hill.
+  - [Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) Covers the intro to statistics, describing and collecting data, working with distributions, creating models with existing data, and making predictions and statistics in the real world, hosted by Adriene Hill.
   - [Smarter Ever Day What is the Fourier Series](https://www.youtube.com/watch?v=ds0cmAV-Yek)
   
 ### Sociology
@@ -108,18 +112,18 @@ The goal here is to spread _information_ that will be helpful, without taking si
   - [Crash Course Literature 4](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPlnUoPa11EoTZbWZLsQVMs) Covers 1984, the Handmaid's Tale, the Parable of the Sower, the Yellow Wallpaper, To the Lighthost, Macbeth, and Pride and Prejudice, hosted by John Green.
   
 ### Physics
-  - [Crash Course Phsyics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV) Covers motion, waves and sound, temperature and heat, electricity and magnetism, light, and the really big and small, hosted by Dr. Chini Somara. 
-  - [Scishow Phsyics (playlist)](https://www.youtube.com/playlist?list=PL8D17C3F1E4DD2126) Covers what the Higgs Boson is, non-newtonian fluids, Schrodinger's Cat, Centrifugal Force, the four fundamental forces of physics, dark energy, nuclear ractors, quantum computing, why dogs shake when they get wet, and entropy, hosted by Hank Green, Olivia Gordon, Michael Aranda, and Stefan Chin.
+  - [Crash Course Physics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV) Covers motion, waves and sound, temperature and heat, electricity and magnetism, light, and the really big and small, hosted by Dr. Chini Somara. 
+  - [Scishow Physics (playlist)](https://www.youtube.com/playlist?list=PL8D17C3F1E4DD2126) Covers what the Higgs Boson is, non-newtonian fluids, Schrodinger's Cat, Centrifugal Force, the four fundamental forces of physics, dark energy, nuclear reactors, quantum computing, why dogs shake when they get wet, and entropy, hosted by Hank Green, Olivia Gordon, Michael Aranda, and Stefan Chin.
   - [Scishow Space Black Holes](https://www.youtube.com/playlist?list=PLsaZOTCFB3C7wnKwlHJAQRprU-qM8--kM)
   - [Smarter Ever Day Unmixing Color Machine (laminar reversible flow)](https://youtu.be/j2_dJY_mIys)
-  - [Literally all of MinutePhysics](https://www.youtube.com/playlist?list=PL908547EAA7E4AE74) Covers a _lot_ physics topics from the sound of hydrogen and quantum tunneling, breaking the speed of light, vomitphysics, rocket science and more. 
+  - [Literally all of MinutePhysics](https://www.youtube.com/playlist?list=PL908547EAA7E4AE74) Covers a _lot_ physics topics from the sound of hydrogen and quantum tunneling, breaking the speed of light, vomit physics, rocket science and more. 
 ### Philosophy
   - [Crash Course Philosophy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR) Covers knowledge and beliefs, existence and death, identity, free will, language, ethics, aesthetics and art, and what makes a good life, hosted by Hank Green.
 
 ### Psychology
-  - [Crash Course Psycology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) Covers the Anatomy of the Nervous System, memory, developmental psycology, personality, emotion, stress, and health, hosted by Hank Green.
-  - [Thearapy in a Nutshell: Anxiety Skills](https://www.youtube.com/playlist?list=PLiUrrIiqidTVNQB5GrD2uh-bmfUGGwh-z) Emma McAdam covers 54 essential skills to understand anxiety, turn off the fight, flight, freeze response, and train yourself to be calmer, more intentional and less stressed out. 
-  - [Thearapy in a Nutshell: Depression Skills](https://www.youtube.com/playlist?list=PLiUrrIiqidTUrBRNDYEmEK1Y_UJ_10_CN) Emma McAdam covers 26 skills to better understand depressive disorder and fight Depression. Includes a CBT approach and Acceptance and Commitment Therapy.
+  - [Crash Course Psychology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) Covers the Anatomy of the Nervous System, memory, developmental psychology, personality, emotion, stress, and health, hosted by Hank Green.
+  - [Therapy in a Nutshell: Anxiety Skills](https://www.youtube.com/playlist?list=PLiUrrIiqidTVNQB5GrD2uh-bmfUGGwh-z) Emma McAdam covers 54 essential skills to understand anxiety, turn off the fight, flight, freeze response, and train yourself to be calmer, more intentional and less stressed out. 
+  - [Therapy in a Nutshell: Depression Skills](https://www.youtube.com/playlist?list=PLiUrrIiqidTUrBRNDYEmEK1Y_UJ_10_CN) Emma McAdam covers 26 skills to better understand depressive disorder and fight Depression. Includes a CBT approach and Acceptance and Commitment Therapy.
 
 
 ### Big History (generally covering hundreds of thousands of years)
@@ -129,14 +133,17 @@ The goal here is to spread _information_ that will be helpful, without taking si
   - [Crash Course World History 2](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNjasccl-WajpONGX3zoY4M) Covers social orders, a deeper dive into World War 1, religion and politics, the rise and fall of societies, the influence of economics on history, and Democratic Capitalism hosted by John Green.
   - [Crash Course World Mythology](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNCG9Vq7vdvJytS-F-xGi7_) Covers what makes up a myth, creation myths, goddess and god archetypes, tricksters, apocalypse myths, and mythical creatures, hosted by Mike Rugnetta.
   - [Crash Course History Of Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNppY8ZHMPDH5TKK2UpU8Ng) Covers Plato and Aristotle, Roman Engineering, medicine, alchemy, and architecture, scientific breakthroughs, electricity, and environmentalism, hosted by Hank Green.
-  - [CGP Gray Voting Systems](https://www.youtube.com/watch?v=s7tWHJfhiyo&list=PLNCHVwtpeBY4mybPkHEnRxSOb7FQ2vF9c) Covers the various voting systems, and critics their implementations.
+  - [Crash Course Political Theory](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMLFBLgZgEDglkTrApbatwk) Covers Democracy, Liberalism, Identity Politics, Ruels of War, Machiavellian, Karl Marx, Anarchism, Feminism, Political Cosmopolitanism, and Punishment political theories. Presented by Ellie Anderson.
+
 ##### European History
   - [Crash Course European History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX) Covers the Renaissance, the Age of Exploration, the Reformation and it's consequences, the Dutch Golden Age, the Rise of Russia and Prussia, expansion and resistance, the World Wars, and the fall of Communism, hosted by John Green. 
 ##### US
 ###### Politics
-  - [Crash Course US Government and Politics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H) Covers the separation of powers and checks and balances, federalism, congressional powers and responsibilities, presidential powers, the legislative system discrimination, social policy, foreign policy, party systems, discrimination, search and seizure, and due process of law, hosted by Craig Benzine (WeezyWaiter). 
+  - [Crash Course US Government and Politics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H) Covers the separation of powers and checks and balances, federalism, congressional powers and responsibilities, presidential powers, the legislative system discrimination, social policy, foreign policy, party systems, discrimination, search and seizure, and due process of law, hosted by Craig Benzine (WeezyWaiter).
+  -  
 ###### History
-  - [Crash Course US History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwmepBjTSG593eG7ObzO7s) Covers colonial America, the American Revolution, Slavery, The Civil War, American Imperialism, World War I, Women's Suffrage, The Great Depression, World War 2, and The presidencies of George W Bush and Barak Obama, hosted by John Green.
+  - [Crash Course US History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwmepBjTSG593eG7ObzO7s) Covers colonial America, the American Revolution, Slavery, The Civil War, American Imperialism, World War I, Women's Suffrage, The Great Depression, World War 2, and The presidencies of George W Bush and Barack Obama, hosted by John Green.
+  - [Crash Course Black American History](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNYJO8JWpXO2JP0ezgxsrJJ) Covers the experience of some Black people in America, from the arrival of the first enslaved Black people who arrived at Jamestown all the way to the Black Lives Matter movement, hosted by Clint Smith.
 ###### Law
   - [Crash Course Intellectual Property](https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN) Covers intellectual property, copyright, fair use, patents, trolls, and trademarks, hosted by Stan Muller.
 ### _Notes_
